@@ -73,6 +73,7 @@ include('menu.php')
     background-size:100%;
 }
 </style>
+  <div class="mysidenav">
      <section class="signup">
             <div class="sign-up-box">
                 <form class="form-horizontal"method="post">
@@ -131,7 +132,7 @@ include('menu.php')
                 </form>
             </div>
         </section>
-  
+  </div>
 
 
 		<?php

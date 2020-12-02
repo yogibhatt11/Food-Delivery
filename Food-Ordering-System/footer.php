@@ -40,7 +40,7 @@
           <div class="col-md-3">
             <h1>Usefull Links</h1>
             <p>Privacy Policy</p>
-            <p>Tearm of Use</p>
+            <p><a href="TermsAndCondition.php">Term of Use</p></a>
             <p>Return Policy</p>
             <p>Discount Coupons</p>
           </div>
